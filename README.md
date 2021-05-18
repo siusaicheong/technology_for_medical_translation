@@ -1,1 +1,3 @@
-# technology_for_medical_translation
+# Online Talk: Technology for Medical Translation
+
+Medical translation plays an important role in healthcare communication across languages (e.g., the dissemination of public health information and the sharing of medical knowledge). With recent advances in artificial intelligence, translation technology can help translators tackle linguistic issues and enhance the quality and efficiency of translation. In this talk, we will provide an overview of medical translation and present a conceptual framework for the development of technology for healthcare translation, with a focus on electronic tools for medical translators.
