@@ -14,7 +14,7 @@ Please cite as
 @misc{siu_2021,
   author = "Sai-cheong SIU",
   title = "Technology for Medical Translation",
-  month = "May. 21",
+  month = 5,
   year = "2021. [Online]",
   url = "https://github.com/siusaicheong/technology_for_medical_translation/"
 }
